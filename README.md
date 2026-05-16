@@ -62,19 +62,6 @@ Diseñar una placa de desarrollo tipo Pinguino basada en arquitectura de 32 bits
 
 ---
 
-## Instalación
-
-1. Clonar el repositorio:
-```bash
-git clone https://github.com/usuario/proyecto-pinguino.git
-```
-
-2. Abrir el proyecto en Pinguino IDE.
-
-3. Compilar y cargar el programa al microcontrolador.
-
----
-
 ## Funcionamiento
 
 El sistema permite ejecutar programas desarrollados en Pinguino IDE utilizando un microcontrolador PIC32 con comunicación USB integrada.
@@ -89,14 +76,11 @@ Se logró implementar correctamente la comunicación USB y la ejecución de prog
 
 ## Integrantes
 
-- Nombre 1
-- Nombre 2
-- Nombre 3
+- Lozada Macias Alondra
+- Soto Estrada Mitzi Brenda
+- Sosa Garcia Carlos Javier
 
 ---
 
 ## Referencias
 
-- https://pinguinoide.github.io/
-- https://www.microchip.com/
-- https://github.com/
