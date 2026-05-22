@@ -4,27 +4,18 @@ Proyecto basado en la plataforma Pinguino para el desarrollo de una tarjeta de 3
 
 ---
 
-## Descripción
-
-Este proyecto tiene como objetivo diseñar e implementar una tarjeta compatible con Pinguino IDE utilizando un microcontrolador PIC32, permitiendo la programación mediante USB y el desarrollo de aplicaciones embebidas.
-
----
-
 ## Objetivo General
-
+Este proyecto tiene como objetivo diseñar e implementar una tarjeta compatible con Pinguino IDE utilizando un microcontrolador PIC32, permitiendo la programación mediante USB y el desarrollo de aplicaciones embebidas.
 Diseñar una placa de desarrollo tipo Pinguino basada en arquitectura de 32 bits para aplicaciones de electrónica y telecomunicaciones.
-
----
-
-## Objetivos Específicos
 
 - Diseñar el circuito electrónico del sistema.
 - Implementar comunicación USB.
 - Configurar el bootloader Pinguino.
 - Simular el diseño en Proteus.
 - Realizar pruebas de funcionamiento.
-
 ---
+
+## Mision y vision
 
 ## Características
 
@@ -62,6 +53,10 @@ Diseñar una placa de desarrollo tipo Pinguino basada en arquitectura de 32 bits
 
 ---
 
+## Wiki
+
+---
+
 ## Funcionamiento
 
 El sistema permite ejecutar programas desarrollados en Pinguino IDE utilizando un microcontrolador PIC32 con comunicación USB integrada.
@@ -79,6 +74,14 @@ Se logró implementar correctamente la comunicación USB y la ejecución de prog
 - Lozada Macias Alondra
 - Soto Estrada Mitzi Brenda
 - Sosa Garcia Carlos Javier
+
+---
+
+## Licencia
+
+---
+
+## Expresiones de Gratitud
 
 ---
 
