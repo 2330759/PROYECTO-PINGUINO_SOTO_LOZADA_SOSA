@@ -1,10 +1,10 @@
-# &#128039; Proyecto Pinguino 32 Bits
+# 🐧 Proyecto Pinguino 32 Bits
 
 Proyecto basado en la plataforma Pinguino para el desarrollo de una tarjeta electrónica de 32 bits utilizando microcontroladores PIC32, enfocada en aplicaciones de electrónica, programación embebida y telecomunicaciones.
 
 ---
 
-# &#128204; Descripción del Proyecto
+# 📌 Descripción del Proyecto
 
 El presente proyecto consiste en el diseño y desarrollo de una placa compatible con **Pinguino IDE**, basada en un microcontrolador de arquitectura de 32 bits de la familia **PIC32**.  
 
@@ -14,13 +14,13 @@ Además, se busca implementar una alternativa funcional y accesible para estudia
 
 ---
 
-# &#127919; Objetivo General
+# 🎯 Objetivo General
 
 Diseñar e implementar una tarjeta compatible con **Pinguino IDE** utilizando un microcontrolador PIC32 de 32 bits, permitiendo la programación mediante USB y el desarrollo de aplicaciones embebidas.
 
 ---
 
-# &#9989; Objetivos Específicos
+# ✅ Objetivos Específicos
 
 - Diseñar el circuito electrónico del sistema.
 - Implementar la comunicación USB.
@@ -33,32 +33,32 @@ Diseñar e implementar una tarjeta compatible con **Pinguino IDE** utilizando un
 
 ---
 
-# &#127979; Misión
+# 🏛️ Misión
 
 Desarrollar una plataforma electrónica basada en arquitectura PIC32 que facilite el aprendizaje y desarrollo de sistemas embebidos mediante herramientas de software libre y hardware accesible.
 
 ---
 
-# &#128301; Visión
+# 🔭 Visión
 
 Convertirse en una alternativa educativa y tecnológica para estudiantes y desarrolladores interesados en microcontroladores de 32 bits, promoviendo el aprendizaje de programación embebida y diseño electrónico.
 
 ---
 
-# &#9889; Características Principales
+# ⚡ Características Principales
 
-- &#129504; Arquitectura de 32 bits.
-- &#128268; Comunicación USB integrada.
-- &#128187; Compatible con Pinguino IDE.
-- &#9881;&#65039; Programación sencilla mediante bootloader.
-- &#128178; Bajo costo de implementación.
-- &#128225; Aplicable en proyectos de electrónica y telecomunicaciones.
-- &#128267; Alimentación mediante USB.
-- &#128736;&#65039; Diseño adaptable y escalable.
+- 🧠 Arquitectura de 32 bits.
+- 🔌 Comunicación USB integrada.
+- 💻 Compatible con Pinguino IDE.
+- ⚙️ Programación sencilla mediante bootloader.
+- 💲 Bajo costo de implementación.
+- 📡 Aplicable en proyectos de electrónica y telecomunicaciones.
+- 🔋 Alimentación mediante USB.
+- 🛠️ Diseño adaptable y escalable.
 
 ---
 
-# &#129513; Hardware Utilizado
+# 🧩 Hardware Utilizado
 
 | Componente | Descripción |
 |---|---|
@@ -73,18 +73,18 @@ Convertirse en una alternativa educativa y tecnológica para estudiantes y desar
 
 ---
 
-# &#128187; Software Utilizado
+# 💻 Software Utilizado
 
-- &#128039; Pinguino IDE
-- &#128300; Proteus
-- &#128736;&#65039; MPLAB X IDE
-- &#9881;&#65039; XC32 Compiler
-- &#128208; KiCad / Eagle *(según el utilizado)*
-- &#128202; GitHub para control de versiones
+- 🐧 Pinguino IDE
+- 🔬 Proteus
+- 🛠️ MPLAB X IDE
+- ⚙️ XC32 Compiler
+- 📐 KiCad / Eagle *(según el utilizado)*
+- 📊 GitHub para control de versiones
 
 ---
 
-# &#129504; Funcionamiento del Sistema
+# 🧠 Funcionamiento del Sistema
 
 El sistema funciona mediante un microcontrolador PIC32 que ejecuta programas desarrollados desde **Pinguino IDE**.  
 
@@ -94,7 +94,7 @@ El microcontrolador recibe las instrucciones cargadas desde la computadora y las
 
 ---
 
-# &#128268; Comunicación USB
+# 🔌 Comunicación USB
 
 La tarjeta implementa comunicación USB para:
 
@@ -107,29 +107,29 @@ La interfaz USB permite una conexión rápida y sencilla sin necesidad de progra
 
 ---
 
-# &#128421;&#65039; Diagrama del Circuito
+# 🖥️ Diagrama del Circuito
 
 ![Circuito](imagenes/circuito.png)
 
 ---
 
-# &#128248; Evidencias del Proyecto
+# 📷 Evidencias del Proyecto
 
-## &#129514; Simulación en Proteus
+## 🧪 Simulación en Proteus
 
 ![Proteus](imagenes/proteus.png)
 
-## &#128295; PCB Diseñada
+## 🔧 PCB Diseñada
 
 ![PCB](imagenes/pcb.png)
 
-## &#128161; Tarjeta Física
+## 💡 Tarjeta Física
 
 ![Tarjeta](imagenes/tarjeta.png)
 
 ---
 
-# &#128218; Wiki del Proyecto
+# 📚 Wiki del Proyecto
 
 La documentación completa del proyecto puede incluir:
 
@@ -143,18 +143,18 @@ La documentación completa del proyecto puede incluir:
 
 ---
 
-# &#128202; Resultados Obtenidos
+# 📊 Resultados Obtenidos
 
-- &#9989; Comunicación USB funcional.
-- &#9989; Reconocimiento correcto en Pinguino IDE.
-- &#9989; Ejecución de programas básicos.
-- &#9989; Encendido y control de LEDs.
-- &#9989; Funcionamiento estable del microcontrolador.
-- &#9989; Simulación correcta en Proteus.
+- ✅ Comunicación USB funcional.
+- ✅ Reconocimiento correcto en Pinguino IDE.
+- ✅ Ejecución de programas básicos.
+- ✅ Encendido y control de LEDs.
+- ✅ Funcionamiento estable del microcontrolador.
+- ✅ Simulación correcta en Proteus.
 
 ---
 
-# &#128640; Aplicaciones
+# 🚀 Aplicaciones
 
 Este proyecto puede utilizarse en:
 
@@ -168,15 +168,15 @@ Este proyecto puede utilizarse en:
 
 ---
 
-# &#128101; Integrantes
+# 👥 Integrantes
 
-- &#128105;&#8205;&#128187; Lozada Macias Alondra
-- &#128105;&#8205;&#128187; Soto Estrada Mitzi Brenda
-- &#128104;&#8205;&#128187; Sosa Garcia Carlos Javier
+- 👩‍💻 Lozada Macias Alondra
+- 👩‍💻 Soto Estrada Mitzi Brenda
+- 👨‍💻 Sosa Garcia Carlos Javier
 
 ---
 
-# &#127979; Institución
+# 🏫 Institución
 
 **Universidad / Instituto:**  
 Agregar nombre de la institución.
@@ -189,20 +189,20 @@ Agregar nombre del docente.
 
 ---
 
-# &#128197; Cronograma del Proyecto
+# 📅 Cronograma del Proyecto
 
 | Etapa | Estado |
 |---|---|
-| Investigación | &#9989; |
-| Diseño electrónico | &#9989; |
-| Simulación | &#9989; |
-| Implementación | &#128260; |
-| Pruebas | &#128260; |
-| Documentación | &#128260; |
+| Investigación | ✅ |
+| Diseño electrónico | ✅ |
+| Simulación | ✅ |
+| Implementación | 🔄 |
+| Pruebas | 🔄 |
+| Documentación | 🔄 |
 
 ---
 
-# &#128737;&#65039; Licencia
+# 🛡️ Licencia
 
 Este proyecto es de uso académico y educativo.  
 
@@ -210,13 +210,13 @@ Puede ser utilizado como referencia para el aprendizaje de microcontroladores PI
 
 ---
 
-# &#128588; Expresiones de Gratitud
+# 🙌 Expresiones de Gratitud
 
 Agradecemos a los docentes, compañeros y colaboradores que brindaron apoyo durante el desarrollo del proyecto, así como a la comunidad de software y hardware libre por proporcionar herramientas y documentación útiles.
 
 ---
 
-# &#128214; Referencias
+# 📖 Referencias
 
 - Pinguino IDE Official Documentation
 - Microchip PIC32 Datasheet
@@ -227,7 +227,7 @@ Agradecemos a los docentes, compañeros y colaboradores que brindaron apoyo dura
 
 ---
 
-# &#127760; Repositorio del Proyecto
+# 🌐 Repositorio del Proyecto
 
 ```bash
 git clone https://github.com/usuario/proyecto-pinguino.git
