@@ -25,7 +25,6 @@ Diseñar e implementar una tarjeta compatible con **Pinguino IDE** utilizando un
 - Diseñar el circuito electrónico del sistema.
 - Implementar la comunicación USB.
 - Configurar el bootloader de Pinguino.
-- Simular el diseño en Proteus.
 - Realizar pruebas de funcionamiento.
 - Verificar la compatibilidad con Pinguino IDE.
 - Elaborar documentación técnica del proyecto.
