@@ -130,15 +130,7 @@ La interfaz USB permite una conexión rápida y sencilla sin necesidad de progra
 
 # 📚 Wiki del Proyecto
 
-La documentación completa del proyecto puede incluir:
 
-- Configuración del entorno.
-- Instalación de drivers.
-- Configuración del bootloader.
-- Diagramas electrónicos.
-- Manual de usuario.
-- Pruebas realizadas.
-- Solución de errores comunes.
 
 ---
 
@@ -178,13 +170,13 @@ Este proyecto puede utilizarse en:
 # 🏫 Institución
 
 **Universidad / Instituto:**  
-Agregar nombre de la institución.
+Universidad Politecnica de Tulancingo
 
 **Materia:**  
-Agregar nombre de la materia.
+Control de Calidad
 
 **Docente:**  
-Agregar nombre del docente.
+Negrete Medellin Arturo
 
 ---
 
