@@ -80,7 +80,9 @@ Convertirse en una alternativa educativa y tecnológica para estudiantes y desar
 - ⚙️ XC32 Compiler
 - 📐 KiCad / Eagle *(según el utilizado)*
 - 📊 GitHub para control de versiones
-
+ 
+Para poder isntalar el Pinguino IDE se tiene que seguir una serie de pasos, con ayuda de este manual https://github.com/2330759/PROYECTO-PINGUINO_SOTO_LOZADA_SOSA/blob/b1d4decfd0bf1482d845e5d954acaa9459071324/ALONDRA/Manual%20de%20instalacion%20Pinguino%201.0.pdf
+Este archivo se encuentra en la carpeta de "Alondra "
 ---
 
 # 🧠 Funcionamiento del Sistema
