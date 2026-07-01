@@ -108,7 +108,7 @@ La interfaz USB permite una conexión rápida y sencilla sin necesidad de progra
 
 # 🖥️ Diagrama del Circuito
 
-![Circuito](imagenes/circuito.png)
+![Circuito](CARLOS/esquematico.png)
 
 ---
 
