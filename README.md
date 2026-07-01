@@ -110,13 +110,9 @@ La interfaz USB permite una conexión rápida y sencilla sin necesidad de progra
 
 ![Circuito](CARLOS/esquematico.png)
 
----
+## 🧪 Ruteo
 
-# 📷 Evidencias del Proyecto
-
-## 🧪 Simulación en KiCad
-
-![Kicad](imagenes/proteus.png)
+![Kicad](CARLOS/ruteo_de_pistas.png)
 
 ## 🔧 PCB Diseñada
 
