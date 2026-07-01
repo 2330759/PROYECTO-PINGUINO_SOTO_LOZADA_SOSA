@@ -79,9 +79,7 @@ Convertirse en una alternativa educativa y tecnológica para estudiantes y desar
 - 🛠️ MPLAB X IDE
 - ⚙️ XC32 Compiler
 - 📐 KiCad / Eagle *(según el utilizado)*
-- 📊 GitHub para control de versiones
- 
-  Para poder isntalar el Pinguino IDE se tiene que seguir una serie de pasos, con ayuda de este manual https://github.com/2330759/PROYECTO-PINGUINO_SOTO_LOZADA_SOSA/blob/b1d4decfd0bf1482d845e5d954acaa9459071324/ALONDRA/Manual%20de%20instalacion%20Pinguino%201.0.pdf
+- 📊 GitHub para control de versiones                                                       Para poder isntalar el Pinguino IDE se tiene que seguir una serie de pasos, con ayuda de este manual https://github.com/2330759/PROYECTO-PINGUINO_SOTO_LOZADA_SOSA/blob/b1d4decfd0bf1482d845e5d954acaa9459071324/ALONDRA/Manual%20de%20instalacion%20Pinguino%201.0.pdf
 Este archivo se encuentra en la carpeta de "Alondra: Manual de Pinguino 0.1"
 ---
 
@@ -116,9 +114,9 @@ La interfaz USB permite una conexión rápida y sencilla sin necesidad de progra
 
 # 📷 Evidencias del Proyecto
 
-## 🧪 Simulación en Proteus
+## 🧪 Simulación en KiCad
 
-![Proteus](imagenes/proteus.png)
+![Kicad](imagenes/proteus.png)
 
 ## 🔧 PCB Diseñada
 
