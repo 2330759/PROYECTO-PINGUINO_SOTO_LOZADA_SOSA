@@ -116,7 +116,7 @@ La interfaz USB permite una conexión rápida y sencilla sin necesidad de progra
 
 ## 🔧 PCB Diseñada
 
-![PCB](imagenes/pcb.png)
+![PCB](CARLOS/prototipo_de_la_placa.png)
 
 ## 💡 Tarjeta Física
 
