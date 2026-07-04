@@ -178,17 +178,14 @@ Negrete Medellin Arturo
 
 # 📅 Cronograma del Proyecto
 
-| Etapa | Estado |
-|---|---|
-| Investigación | ✅ |
-| Diseño electrónico | ✅ |
-| Simulación | ✅ |
-| Implementación | 🔄 |
-| Pruebas | 🔄 |
-| Documentación | 🔄 |
+
 
 ---
+# Ayudanos contestando este formulario
 
+https://forms.gle/UxFxS8eQeu2mS2er6
+
+---
 # 🛡️ Licencia
 
 Este proyecto es de uso académico y educativo.  
