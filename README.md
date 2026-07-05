@@ -183,7 +183,7 @@ Negrete Medellin Arturo
 ---
 # Ayudanos contestando este formulario
 
-https://forms.gle/UxFxS8eQeu2mS2er6
+Liga: https://forms.gle/UxFxS8eQeu2mS2er6
 
 ---
 # 🛡️ Licencia
