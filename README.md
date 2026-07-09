@@ -188,26 +188,16 @@ Liga: https://forms.gle/UxFxS8eQeu2mS2er6
 ---
 # 🛡️ Licencia
 
-Este proyecto es de uso académico y educativo.  
-
-Puede ser utilizado como referencia para el aprendizaje de microcontroladores PIC32 y plataformas compatibles con Pinguino IDE.
-
----
-
-# 🙌 Expresiones de Gratitud
-
-Agradecemos a los docentes, compañeros y colaboradores que brindaron apoyo durante el desarrollo del proyecto, así como a la comunidad de software y hardware libre por proporcionar herramientas y documentación útiles.
+- MIT License
+- GPL v3
 
 ---
 
 # 📖 Referencias
 
-- Pinguino IDE Official Documentation
-- Microchip PIC32 Datasheet
-- MPLAB X Documentation
-- Proteus Design Suite
-- USB Communication Standards
-- Documentación oficial de Microchip
+• GitHub. (s. f.). Choose an Open Source License. https://choosealicense.com/  
+• GitHub. (s. f.). Licenses. Choose a License. https://choosealicense.com/licenses/  
+
 
 ---
 
