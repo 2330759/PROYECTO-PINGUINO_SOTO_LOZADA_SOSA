@@ -1,4 +1,4 @@
-# 🐧 Proyecto Pinguino 32 Bits (Borrador)
+# 🐧 Proyecto Pinguino 32 Bits 
 
 Proyecto basado en la plataforma Pinguino para el desarrollo de una tarjeta electrónica de 32 bits utilizando microcontroladores PIC32, enfocada en aplicaciones de electrónica, programación embebida y telecomunicaciones.
 
@@ -132,12 +132,12 @@ La interfaz USB permite una conexión rápida y sencilla sin necesidad de progra
 
 # 📊 Resultados Obtenidos
 
-- ✅ Comunicación USB funcional.
-- ✅ Reconocimiento correcto en Pinguino IDE.
-- ✅ Ejecución de programas básicos.
-- ✅ Encendido y control de LEDs.
-- ✅ Funcionamiento estable del microcontrolador.
-- ✅ Simulación correcta en Proteus.
+-  Comunicación USB funcional.
+-  Reconocimiento correcto en Pinguino IDE.
+-  Ejecución de programas básicos.
+-  Encendido y control de LEDs.
+-  Funcionamiento estable del microcontrolador.
+-  Simulación correcta en Proteus.
 
 ---
 
@@ -157,6 +157,8 @@ Este proyecto puede utilizarse en:
 
 # 👥 Integrantes
 
+Alumnos de la carrera en Ing. en Electronica y Telecomunicaciones 
+Noveno Cuatrimestre
 - 👩‍💻 Lozada Macias Alondra
 - 👩‍💻 Soto Estrada Mitzi Brenda
 - 👨‍💻 Sosa Garcia Carlos Javier
@@ -188,7 +190,7 @@ Liga: https://forms.gle/UxFxS8eQeu2mS2er6
 ---
 # 🛡️ Licencia
 
-- MIT License
+- MIT License (Aplica para el manual)
 - GPL v3
 
 ---
@@ -197,7 +199,7 @@ Liga: https://forms.gle/UxFxS8eQeu2mS2er6
 
 • GitHub. (s. f.). Choose an Open Source License. https://choosealicense.com/  
 • GitHub. (s. f.). Licenses. Choose a License. https://choosealicense.com/licenses/  
-
+• Datasheet del PIC. https://github.com/2330759/PROYECTO-PINGUINO_SOTO_LOZADA_SOSA/blob/18db1d374689b2b453168e4851f70ead3692e9e4/ALONDRA/PIC32MX1XX.PDF
 
 ---
 
