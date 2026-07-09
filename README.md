@@ -199,7 +199,7 @@ Liga: https://forms.gle/UxFxS8eQeu2mS2er6
 
 • GitHub. (s. f.). Choose an Open Source License. https://choosealicense.com/  
 • GitHub. (s. f.). Licenses. Choose a License. https://choosealicense.com/licenses/  
-• Datasheet del PIC. https://github.com/2330759/PROYECTO-PINGUINO_SOTO_LOZADA_SOSA/blob/18db1d374689b2b453168e4851f70ead3692e9e4/ALONDRA/PIC32MX1XX.PDF
+• Datasheet del PIC. https://github.com/2330759/PROYECTO-PINGUINO_SOTO_LOZADA_SOSA/blob/18db1d374689b2b453168e4851f70ead3692e9e4/ALONDRA/PIC32MX1XX.PDF/
 
 ---
 
