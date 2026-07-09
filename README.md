@@ -190,7 +190,7 @@ Liga: https://forms.gle/UxFxS8eQeu2mS2er6
 ---
 # 🛡️ Licencia
 
-- ![License]()
+- ![License](https://github.com/2330759/PROYECTO-PINGUINO_SOTO_LOZADA_SOSA/blob/b492d2fd44880deabed0a523e0ea2361b47a23c9/LICENSE/MIT%20License.pdf)
 - GPL v3
 
 ---
