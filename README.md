@@ -190,7 +190,7 @@ Liga: https://forms.gle/UxFxS8eQeu2mS2er6
 ---
 # 🛡️ Licencia
 
-- MIT License (Aplica para el manual)
+- ![License]()
 - GPL v3
 
 ---
