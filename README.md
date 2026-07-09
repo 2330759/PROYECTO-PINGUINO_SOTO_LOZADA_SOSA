@@ -185,7 +185,7 @@ Negrete Medellin Arturo
 ---
 # Ayudanos contestando este formulario
 
-[ Ver Liga(PDF)](https://forms.gle/UxFxS8eQeu2mS2er6)
+📋 [Responder formulario](https://forms.gle/UxFxS8eQeu2mS2er6)
 
 ---
 # 🛡️ Licencia
