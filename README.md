@@ -2,6 +2,8 @@
 
 Proyecto basado en la plataforma Pinguino para el desarrollo de una tarjeta electrónica de 32 bits utilizando microcontroladores PIC32, enfocada en aplicaciones de electrónica, programación embebida y telecomunicaciones.
 
+Contacto: 7751510126
+
 ---
 
 # 📌 Descripción del Proyecto
