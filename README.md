@@ -74,9 +74,7 @@ Convertirse en una alternativa educativa y tecnológica para estudiantes y desar
 # 💻 Software Utilizado
 
 - 🐧 Pinguino IDE
-- 🔬 Proteus
-- 🛠️ MPLAB X IDE
-- ⚙️ XC32 Compiler
+- 🛠️ PICkit 2
 - 📐 KiCad / Eagle *(según el utilizado)*
 - 📊 GitHub para control de versiones                                                       Para poder isntalar el Pinguino IDE se tiene que seguir una serie de pasos, con ayuda de este manual [ Ver MANUAL(PDF)](https://github.com/2330759/PROYECTO-PINGUINO_SOTO_LOZADA_SOSA/blob/b492d2fd44880deabed0a523e0ea2361b47a23c9/LICENSE/MIT%20License.pdf)
 Este archivo se encuentra en la carpeta de "Alondra: Manual de Pinguino 0.1"
