@@ -76,7 +76,7 @@ Convertirse en una alternativa educativa y tecnológica para estudiantes y desar
 - 🐧 Pinguino IDE
 - 🛠️ PICkit 2
 - 📐 KiCad / Eagle *(según el utilizado)*
-- 📊 GitHub para control de versiones                                                       Para poder isntalar el Pinguino IDE se tiene que seguir una serie de pasos, con ayuda de este manual [ Ver MANUAL(PDF)](https://github.com/2330759/PROYECTO-PINGUINO_SOTO_LOZADA_SOSA/blob/b492d2fd44880deabed0a523e0ea2361b47a23c9/LICENSE/MIT%20License.pdf)
+- 📊 GitHub para control de versiones                                                       Para poder isntalar el Pinguino IDE se tiene que seguir una serie de pasos, con ayuda de este manual [ Ver MANUAL(PDF)](https://github.com/2330759/PROYECTO-PINGUINO_SOTO_LOZADA_SOSA/blob/77b822736eb000699e5ce5eb6b83666f4a34e7d7/ALONDRA/Manual%20de%20instalacion%20Pinguino%201.0.pdf)
 Este archivo se encuentra en la carpeta de "Alondra: Manual de Pinguino 0.1"
 ---
 
