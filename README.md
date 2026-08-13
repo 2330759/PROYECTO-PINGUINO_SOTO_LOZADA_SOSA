@@ -190,13 +190,13 @@ Negrete Medellin Arturo
 ![Ishikawa](MITZI/DiagramaIshikawa.png)
 
 5. Diagrama de Dispersión  
-![Dispersión](CARLOS/Diagrama_de_dispersion.png)
+![Dispersión](CARLOS/Diagrama de dispersion.png)
 
 6. Gráfica de Control  
-![Control](CARLOS/Grafica_de_control.png)
+![Control](CARLOS/Grafica de control.png)
 
 7. Diagrama de Flujo  
-![Flujo](CARLOS/Diagrama_de_flujo.png)
+![Flujo](CARLOS/Diagrama de flujo.png)
 ---
 # Ayudanos contestando este formulario
 
