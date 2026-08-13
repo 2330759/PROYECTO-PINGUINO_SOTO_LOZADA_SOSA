@@ -175,10 +175,10 @@ Negrete Medellin Arturo
 
 ---
 
-# 📅 Cronograma del Proyecto
+# 📅 7 Herramientas
 
-
-
+1. 
+![Tarjeta](imagenes/tarjeta.png)
 ---
 # Ayudanos contestando este formulario
 
