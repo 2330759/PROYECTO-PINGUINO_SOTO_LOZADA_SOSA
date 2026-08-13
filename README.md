@@ -178,7 +178,7 @@ Negrete Medellin Arturo
 # 📅 7 Herramientas
 
 1. Hoja de Verificacion 
-![Hoja](imagenes/hojadeverificacion.png)
+![Hoja](MITZI/hojadeverificacion.png)
 ---
 # Ayudanos contestando este formulario
 
