@@ -177,27 +177,26 @@ Negrete Medellin Arturo
 
 # 📅 7 Herramientas
 
-1. Hoja de Verificacion 
+1. Hoja de Verificación  
 ![Hoja](MITZI/hojadeverificacion.png)
 
-2. Diagrama de pareto 
+2. Diagrama de Pareto  
 ![Pareto](MITZI/DiagramadePareto.png)
 
-3. Histograma
+3. Histograma  
 ![Histograma](MITZI/Histograma.png)
 
-4. Diagrama Ishikawa 
+4. Diagrama de Ishikawa  
 ![Ishikawa](MITZI/DiagramaIshikawa.png)
 
-5. Diagrama de dispercion
-![dispercion](CARLOS/Diagrama de dispercion.png)
+5. Diagrama de Dispersión  
+![Dispersión](CARLOS/Diagrama_de_dispersion.png)
 
-6. Grafica de control
-![Control](CARLOS/Grafica de control.png)
+6. Gráfica de Control  
+![Control](CARLOS/Grafica_de_control.png)
 
-7. Diagrama de flujo 
-![Flujo](CARLOS/Diagrama de flujo.png)
-
+7. Diagrama de Flujo  
+![Flujo](CARLOS/Diagrama_de_flujo.png)
 ---
 # Ayudanos contestando este formulario
 
