@@ -179,6 +179,25 @@ Negrete Medellin Arturo
 
 1. Hoja de Verificacion 
 ![Hoja](MITZI/hojadeverificacion.png)
+
+2. Diagrama de pareto 
+![Pareto](MITZI/DiagramadePareto.png)
+
+3. Histograma
+![Histograma](MITZI/Histograma.png)
+
+4. Diagrama Ishikawa 
+![Ishikawa](MITZI/DiagramaIshikawa.png)
+
+5. Diagrama de dispercion
+![dispercion](CARLOS/Diagrama de dispercion.png)
+
+6. Grafica de control
+![Control](CARLOS/Grafica de control.png)
+
+7. Diagrama de flujo 
+![Flujo](CARLOS/Diagrama de flujo.png)
+
 ---
 # Ayudanos contestando este formulario
 
