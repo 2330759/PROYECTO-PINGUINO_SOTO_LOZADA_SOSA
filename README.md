@@ -56,21 +56,6 @@ Convertirse en una alternativa educativa y tecnológica para estudiantes y desar
 
 ---
 
-# 🧩 Hardware Utilizado
-
-| Componente | Descripción |
-|---|---|
-| PIC32MX250F128B | Microcontrolador principal |
-| Cristal de 8 MHz | Oscilador externo |
-| LM1117 | Regulador de voltaje |
-| USB Mini-B | Comunicación y programación |
-| Capacitores cerámicos | Filtrado y estabilidad |
-| Resistencias | Polarización y protección |
-| LED indicador | Estado de funcionamiento |
-| Push Button | Reinicio del sistema |
-
----
-
 # 💻 Software Utilizado
 
 - 🐧 Pinguino IDE
@@ -121,12 +106,6 @@ La interfaz USB permite una conexión rápida y sencilla sin necesidad de progra
 
 ---
 
-# 📚 Wiki del Proyecto
-
-
-
----
-
 # 📊 Resultados Obtenidos
 
 -  Comunicación USB funcional.
@@ -134,7 +113,6 @@ La interfaz USB permite una conexión rápida y sencilla sin necesidad de progra
 -  Ejecución de programas básicos.
 -  Encendido y control de LEDs.
 -  Funcionamiento estable del microcontrolador.
--  Simulación correcta en Proteus.
 
 ---
 
@@ -201,7 +179,7 @@ Negrete Medellin Arturo
 # Ayudanos contestando este formulario
 
 📋 [Responder formulario](https://forms.gle/UxFxS8eQeu2mS2er6)
-
+📋 [Respuestas obtenidas](https://forms.gle/UxFxS8eQeu2mS2er6)
 ---
 # 🛡️ Licencia
 
