@@ -179,7 +179,7 @@ Negrete Medellin Arturo
 # Ayudanos contestando este formulario
 
 📋 [Responder formulario](https://forms.gle/UxFxS8eQeu2mS2er6)
-📋 [Respuestas obtenidas](https://forms.gle/UxFxS8eQeu2mS2er6)
+📋 [Respuestas obtenidas]()
 ---
 # 🛡️ Licencia
 
